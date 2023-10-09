@@ -1,0 +1,14 @@
+COUNTRY_CODE,COUNTRY_NAME,RISK_SCORE
+30,Greece,1.5
+47,Norway,2
+46,Sweden,1.5
+36,Hungary,1
+31,Netherlands,1
+49,Germany,0.9
+40,Romania,0.8
+32,Belgium,1.2
+224,Ghana,4
+247,Ascension Island,6
+229,Benin,3.5
+239,Sao Tome & Principe,7
+248,Seychelles,8
